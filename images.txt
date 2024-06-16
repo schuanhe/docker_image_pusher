@@ -1,4 +1,4 @@
 nginx
 justsong/one-api
 1panel/maxkb
-ghcr.io/open-webui/open-webui:git-1275371-cuda
+ghcr.io/open-webui/open-webui:main
