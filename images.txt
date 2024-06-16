@@ -1,2 +1,3 @@
 nginx
 justsong/one-api
+1panel/maxkb
